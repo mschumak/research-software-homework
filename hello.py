@@ -5,8 +5,6 @@
 
 import argparse
 
-# print("Hello World!")
-
 the_parser = argparse.ArgumentParser(description="Simple Hello World and argument parsing tutorial code.")
 the_parser.add_argument(
     'name',
